@@ -1,0 +1,357 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #f6f6f6;
+}
+#bod{
+    background-color: #f6f6f6;
+    width: 960px;
+    margin: 30px auto;
+    position: relative;
+}
+/*左边的*/
+#left{
+    position: relative;
+    float: left;
+}
+#left .imgtop{
+    margin-top: 100px;
+}
+
+
+
+/*中间的*/
+#cent{
+    position: relative;
+    float: left;
+    width: 670px;
+    height: 1234px;
+    background-color: #fff;
+
+}
+#cent .one{
+    width: 670px;
+    height: 53px;
+    text-align: center;
+    line-height: 53px;
+    color: red;
+    font-size: 22px;
+    position: relative;
+}
+#cent .one .i1{
+    display: inline-block;
+    position: absolute;
+    left:-10px;
+    top:10px;
+    width: 84px;
+    height: 42px;
+    background: url(../images/img2.png) no-repeat 0 0;
+    background-position: 0 0;
+}
+#cent .one .i2{
+    display: inline-block;
+    position: absolute;
+    right:-10px;
+    top:10px;
+    width: 84px;
+    height: 42px;
+    background: url(../images/img2.png) no-repeat 0 0;
+    background-position:-84px 0;
+}
+#cent .two{
+    width: 610px;
+    height: 37px;
+    text-align: center;
+    line-height: 37px;
+    color: red;
+    font-size: 14px;
+    background-color: #f6f6f6;
+    margin-left: 30px;
+}
+#shree{
+    position: relative;
+    top:30px;
+    font-size: 14px;
+}
+#shree input{
+    width: 274px;
+    height: 28px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #f6f6f6;
+    border:1px solid #7b7b7b;
+}
+#shree .shreea{
+    width: 100px;
+    height: 350px;
+    float: left;
+}
+#shree .shreea p{
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+}
+#shree .shreeb{
+    width: 300px;
+    height: 350px;
+    float: left;
+    margin-left: 10px;
+}
+#shree .shreeb p{
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+}
+#shree .shreeb p .i3{
+    background: url(../images/sex.jpg)no-repeat 0 0;
+    background-position: 0 0;
+    display: inline-block;
+    width: 16px;
+    height: 19px;
+}
+#shree .shreeb p .i4{
+    background: url(../images/sex.jpg)no-repeat 0 0;
+    background-position: 0 -25px;
+    display: inline-block;
+    width: 16px;
+    height: 25px;
+}
+#shree .shreeb [type="radio"]{
+    width: 14px;
+    height: 14px;
+}
+#shree .shreeb .span1{
+    width: 86px;
+    height: 30px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 30px;
+    display: inline-block;
+    border-radius: 3px;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+#shree .shreeb .span1 .inp1{
+    border: 0;
+    width: 60px;
+    height: 25px;
+    outline-style: none;
+}
+#shree .shreec{
+    width: 200px;
+    height: 350px;
+    float: left;
+}
+#shree .shreec p{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+#shree .bgu{
+    background: url(../images/right.jpg)no-repeat 0 0;
+    background-position: 95%;
+    background-color: #f6f6f6;
+}
+
+hr{
+    width: 90%;
+    position: relative;
+    left:50%;
+    margin-left: -45%;
+    border: 1px dashed #dfdfdf;
+}
+.hra{
+    padding-left:100px;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.hra a{
+    color: #7b7b7b;
+    text-decoration: underline;
+}
+#four{
+    position: relative;
+    height: 200px;
+}
+#four .foura{
+    float: left;
+    width: 100px;
+    height: 200px;
+}
+#four .foura p{
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+}
+#four .fourb{
+    float: left;
+    width: 330px;
+    margin-left: 10px;
+    height: 200px;
+}
+#four .fourb p{
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+}
+#four .fourb p .inp2{
+    width: 160px;
+}
+#four .fourc{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+#five{
+    position: relative;
+    top:40px;
+    font-size: 14px;
+}
+#five a{
+    color: #7b7b7b;
+}
+#five .fivea{
+    width: 100px;
+    float: left;
+    height: 500px;
+}
+#five .fivea p{
+    text-align: right;
+    height: 40px;
+    line-height: 40px;
+}
+#five .fiveb{
+    float: left;
+    margin-left: 10px;
+}
+#five .fiveb .fiveba1{
+    width: 440px;
+    text-align: left;
+}
+#five .fiveb .fiveb1{
+    display: inline-block;
+    border: 1px solid  #7b7b7b;
+    border-radius:3px ;
+    width: 90px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+#five .fiveb .fiveb2{
+    float: right;
+    display: inline-block;
+    width: 90px;
+    height: 40px;
+    color: blue;
+    text-decoration: underline;
+    line-height: 40px;
+}
+#five .fiveb .fiveba2{
+    width: 440px;
+    height: 200px;
+    border: 1px solid #7b7b7b;
+}
+#btn button{
+    width: 280px;
+    height: 50px;
+    background-color: #18b4e3;
+    border: 0;
+    outline-style: none;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 28px;
+    color: #fff;
+}
+#tk{
+    width: 400px;
+    height: 100px;
+    margin-left: 110px;
+    margin-top: 20px;
+    line-height: 60px;
+}
+#bottom{
+    position: relative;
+    top: 50px;;
+    bottom: 30px;
+    left:50%;
+    margin-left: -200px;
+    width: 600px;
+    height: 50px;
+    font-size: 14px;
+    line-height: 50px;
+}
+#right{
+    position: fixed;
+    top: 50%;
+    margin-top: -66px;
+    left:50%;
+    margin-left: 360px;
+    background: url(../images/hy.png)no-repeat 0 0;
+    width: 103px;
+    padding-left: 30px;
+    font-size: 10px;
+    z-index: 999;
+}
+#right .right1{
+    width: 103px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+}
+#right .right1 a{
+    text-decoration: underline;
+    color: blue;
+}
+#right .right2{
+    width: 103px;
+    height: 28px;
+    color: #7b7b7b;
+    line-height: 28px;
+    text-align: center;
+}
+#right .right3 {
+    width: 103px;
+    height: 30px;
+    text-align: center;
+    line-height: 39px;
+    overflow: hidden;
+}
+#right .right3 ul li{
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-left: 10px;
+}
+.shang{
+    background-color: #eee;
+    width: 92px;
+    height: 15px;
+    text-align: center;
+    position: relative;
+    left:5px;
+    border: 1px solid #c0c0c0;
+    border-top: none;
+
+
+
+}
+.shang a{
+    display: inline-block;
+    width: 92px;
+    height: 15px;
+}
+
+
+
+

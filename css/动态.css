@@ -1,0 +1,468 @@
+
+.shreeb .qing{
+    position: relative;
+}
+.shreeb .nian{
+    width: 468px;
+    height: 207px;
+    border: 1px solid #7b7b7b;
+    border-radius: 3px;
+    position: absolute;
+    top:-10px;
+    z-index: 687;
+    padding-top: 20px;
+    background-color: #fff;
+    display: none;
+}
+.shreeb .qing ul li{
+    height: 30px;
+    padding-left: 10px;
+}
+.shreeb .qing a{
+    color: #7b7b7b;
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+.shreeb .qing a:hover{
+    color: #fff;
+    background-color: #35d7c3;
+}
+
+.shreeb .yue{
+    width: 468px;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #7b7b7b;
+    border-radius: 3px;
+    position: absolute;
+    top:-10px;
+    z-index: 697;
+    background-color: #fff;
+    display: none;
+}
+.shreeb .yue a{
+    margin-left: 2px;
+}
+.shreeb .ri{
+    width: 468px;
+    height: 82px;
+    border: 1px solid #7b7b7b;
+    border-radius: 3px;
+    position: absolute;
+    top:-10px;
+    z-index: 667;
+    display: none;
+    background-color: #fff;
+}
+.shreeb .ri a{
+    margin-top: 3px;
+    margin-left: 2px;
+}
+
+
+.shreec .gai1{
+    position: relative;
+    top:-50px;
+    left: 40px;;
+    width: 120px;
+    color: red;
+    height: 40px;
+    background-color: #fff2f5;
+    border: 1px solid red;
+    border-radius: 3px;
+    line-height: 40px;
+    text-align: center;
+    display: none;
+}
+.shreec .gai2{
+    position: relative;
+    left: 40px;;
+    width: 120px;
+    color: red;
+    height: 40px;
+    background-color: #fff2f5;
+    border: 1px solid red;
+    border-radius: 3px;
+    line-height: 40px;
+    text-align: center;
+    display: none;
+}
+
+.shreeb .bgu1{
+    position: relative;
+}
+.shreeb .bgu1 .bgu1a{
+    background-color: #fff;
+    width: 468px;
+    height: 207px;
+    position: absolute;
+    top:-10px;
+    z-index: 790;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    display: none;
+    cursor: pointer;
+}
+.shreeb .bgu1 .bgu1a ul{
+    padding: 10px;
+}
+.shreeb .bgu1 .bgu1a ul li{
+    height: 28px;
+    line-height: 28px;
+}
+.shreeb .bgu1 .bgu1a ul .li1 a{
+    color: blue;
+}
+.shreeb .bgu1 .bgu1a p{
+    height: 10px;
+    color: #ccc;
+}
+.shreeb .bgu1 .bgu1a span{
+    color: #7b7b7b;
+}
+.shreeb .bgu1 .bgu1a ul li a{
+    text-decoration: underline;
+    margin-left: 5px;
+    display: inline-block;
+    width: 30px;
+    height: 25px;
+    text-align: center;
+    line-height:25px ;
+    color: #7b7b7b;
+}
+.shreeb .bgu1 .bgu1a ul li a:hover{
+    background-color: #35d7c3;
+    color: #fff;
+}
+
+.shreeb .bgu2{
+    position: relative;
+}
+.shreeb .bgu2a{
+    background-color: #ccc;
+    width: 280px;
+    height: 380px;
+    position: absolute;
+    top:-210px;
+    z-index: 123;
+    overflow:auto;
+    display: none;
+    cursor: pointer;
+}
+.shreeb .bgu2a ul li{
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.shreeb .bgu2 .bgu2a ul li:hover{
+    background-color: #35c4d7;
+}
+
+
+.shreeb .bgu3{
+    position: relative;
+}
+.shreeb .bgu3 .bgu3a{
+    background-color: #fff;
+    width: 278px;
+    height: 177px;
+    position: absolute;
+    top:-10px;
+    z-index: 780;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 3px;
+    display: none;
+}
+.shreeb .bgu3 .bgu3a ul li{
+    height: 25px;
+    line-height: 25px;
+    padding-left: 10px;
+}
+.shreeb .bgu3 .bgu3a ul li:hover{
+    background-color: #35c4d7;
+}
+
+.shreeb .bgu4{
+    position: relative;
+}
+.shreeb .bgu4 .bgu4a{
+    background-color: #fff;
+    width: 278px;
+    height: 182px;
+    position: absolute;
+    top:-10px;
+    z-index: 786;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 3px;
+    display: none;
+}
+.shreeb .bgu4 .bgu4a ul li{
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.shreeb .bgu4 .bgu4a ul li:hover{
+     background-color: #35c4d7;
+ }
+.fourb{
+    position: relative;
+}
+.fourc{
+    position: relative;
+}
+
+.fourc p{
+    width: 200px;
+    height: 35px;
+    padding-left: 10px;
+    margin-top: 11px;
+    line-height: 35px;
+    color: red;
+    background-color: #fff2f5;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-align: left;
+    display: none;
+}
+.fourc .tian{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+    display: none;
+}
+.fourc .tian1{
+    position: absolute;
+    top:50px;
+    width: 200px;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+    display: none;
+}
+.fourc .pb{
+    position: absolute;
+    top:50px;
+}
+.fourc .pc{
+    position:  absolute;
+    top:95px;
+}
+.fourc .pd{
+    position: absolute;
+    top:140px;
+}
+
+.btn1{
+    position: absolute;
+    left:185px;
+    top:62px;
+    width: 90px;
+    height: 28px;
+    padding-left: 20px;
+    font-size: 8px;
+    border-radius: 3px;
+    border: 1px solid #7b7b7b;
+    background-color: #fff;
+    display: none;
+}
+.imga{
+    position: relative;
+    left:-30px;
+    top:2px;
+    display: none;
+    z-index: 24;
+}
+.imgb{
+    position: relative;
+    left:-30px;
+    top:2px;
+    display: none;
+    z-index: 25;
+}
+
+.jie1{
+    background-color: #fff;
+}
+.jie1 .jie1a{
+    width: 420px;
+    height: 40px;
+    background-color: #fff2f5;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    left:10px;
+    border: 1px solid #7b7b7b;
+    background: url(../images/x1.png)no-repeat 0 0;
+    background-position: 95%;
+    background-color: #eee;
+    line-height: 40px;
+}
+.jie1 .jie1c{
+    overflow: hidden;
+    height: 90px;
+    padding: 10px;
+}
+.jie1 ul li{
+    height: 100px;
+    line-height: 20px;
+}
+.jie1  .jie1c ul li a{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background-color: rgba(205,246,123,0.6);
+    margin: 2px;
+    color: #fff;
+
+}
+.jie1  .jie1c ul li a:hover{
+    text-decoration: underline;
+    background-color: #CDF67B;
+}
+.jie1 .jie1d{
+    width: 420px;
+    text-align: right;
+    padding: 10px;
+    background: url(../images/ref.jpg)no-repeat 0 0;
+    background-position: 85%;
+}
+
+
+
+
+.jie2{
+    background-color: #fff;
+}
+.jie2a{
+    position: relative;
+    z-index: 342;
+    background-color: #fff;
+    display: none;
+}
+.jie2a1{
+    padding: 10px;
+}
+.jie2 .jie2a .jie2c1{
+    width: 420px;
+    height: 40px;
+    background-color: #fff2f5;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    left:10px;
+    border: 1px solid red;
+    background: url(../images/x.png)no-repeat 0 0;
+    background-position: 95%;
+    background-color: #fff2f5;
+    line-height: 40px;
+}
+.jie2b{
+    position: relative;
+    z-index: 343;
+    background-color: #fff;
+    display: none;
+}
+.jie2 .jie2b .jie2c2{
+    width: 420px;
+    height: 40px;
+    background-color: #fff2f5;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    left:10px;
+    border: 1px solid red;
+    background: url(../images/x.png)no-repeat 0 0;
+    background-position: 95%;
+    background-color: #fff2f5;
+    line-height: 40px;
+
+}
+.jie2b textarea{
+    width: 420px;
+    height: 120px;
+    margin: 10px;
+}
+
+
+
+
+.jie3{
+    background-color: #fff;
+    padding-top: 40px;
+    padding-left: 10px;
+    display: none;
+    z-index: 345;
+}
+.jie3 p{
+    height: 40px;
+}
+.jie3 p input{
+    outline-style: none;
+    border: none;
+    border-bottom: 1px solid #e2e2e2;
+    width: 290px;
+    height: 24px;
+}
+.jie4{
+    position: relative;
+    left: -5px;
+    top:10px;
+    background-color: #fff;
+    z-index: 347;
+    width: 445px;
+    height: 300px;
+    overflow: hidden;
+    border: 1px solid #35d7c3;
+    display: none;
+}
+.jie4 ul li{
+    height: 300px;
+}
+.jie4 ul li p{
+    padding:10px ;
+    height: 80px;
+}
+.jie4 ul li hr{
+   border: 1px solid #eee;
+}
+
+#jian{
+    width: 30px;
+    height: 80px;
+    text-align: center;
+    background-color: #fff;
+    position: fixed;
+    right: 0;
+    top: 50%;
+    margin-top: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
